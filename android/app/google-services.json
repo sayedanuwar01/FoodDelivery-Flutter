@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "592130312073",
+    "firebase_url": "https://wssal-6e7c3.firebaseio.com",
+    "project_id": "wssal-6e7c3",
+    "storage_bucket": "wssal-6e7c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592130312073:android:7a253e0cbfc39d4a250358",
+        "android_client_info": {
+          "package_name": "com.wssal.wssalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592130312073-ct9vvg0phm63vkfsttqq1vfhst5a73ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOnku4GkREO6ODucplmT0RBYDsTyRr-zM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592130312073-ct9vvg0phm63vkfsttqq1vfhst5a73ff.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "592130312073-ei1ccp2kalme0dbr3i8opqrioh7obo7b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wssal.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
